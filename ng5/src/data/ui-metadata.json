@@ -1,0 +1,333 @@
+{
+    "mealplans": [
+        {
+            "id": 104677,
+            "name": "Family American"
+        },
+        {
+            "id": 104676,
+            "name": "Dinner bed & breakfast plan"
+        },
+        {
+            "id": 104675,
+            "name": "Bermuda"
+        },
+        {
+            "id": 104674,
+            "name": "Self catering"
+        },
+        {
+            "id": 104673,
+            "name": "Room only"
+        },
+        {
+            "id": 104672,
+            "name": "As brochured"
+        },
+        {
+            "id": 104660,
+            "name": "All Inclusive"
+        },
+        {
+            "id": 104661,
+            "name": "American Plan"
+        },
+        {
+            "id": 104662,
+            "name": "Bed & Breakfast"
+        },
+        {
+            "id": 104663,
+            "name": "Buffet breakfast"
+        },
+        {
+            "id": 104668,
+            "name": "Family Plan"
+        },
+        {
+            "id": 104669,
+            "name": "Full board"
+        },
+        {
+            "id": 104671,
+            "name": "Half board/modified American Plan"
+        },
+        {
+            "id": 104664,
+            "name": "Caribbean breakfast"
+        },
+        {
+            "id": 104666,
+            "name": "English breakfast"
+        },
+        {
+            "id": 104667,
+            "name": "European Plan"
+        }
+    ],
+    "distributionChannels": [
+        {
+            "id": 0,
+            "name": "Web and Mobile",
+            "visible": true
+        },
+        {
+            "id": 0,
+            "name": "Call Center",
+            "visible": true
+        },
+        {
+            "id": 0,
+            "name": "ODD",
+            "visible": true
+        },
+        {
+            "id": 0,
+            "name": "Mobile Only",
+            "visible": true
+        }
+    ],
+    "gdsChannels": [
+        {
+            "id": 0,
+            "name": "Sabre"
+        },
+        {
+            "id": 0,
+            "name": "Galileo"
+        },
+        {
+            "id": 0,
+            "name": "Worldspan"
+        },
+        {
+            "id": 0,
+            "name": "Amadeus"
+        },
+        {
+            "id": 0,
+            "name": "ODD"
+        }
+    ],
+    "rmsOptions": [
+        {
+            "id": 0,
+            "name": "iHotelier"
+        },
+        {
+            "id": 1,
+            "name": "RMS"
+        },
+        {
+            "id": 2,
+            "name": "PMS"
+        }
+    ],
+    "rateCategories": [
+        {
+            "id": 1,
+            "name": "RACK"
+        },
+        {
+            "id": 2,
+            "name": "CORPORATE"
+        },
+        {
+            "id": 6,
+            "name": "PACKAGE"
+        },
+        {
+            "id": 7,
+            "name": "PROMOTIONAL"
+        },
+        {
+            "id": 12,
+            "name": "NEGOTIATED"
+        },
+        {
+            "id": 13,
+            "name": "CONSORTIA"
+        },
+        {
+            "id": 14,
+            "name": "IN HOUSE"
+        },
+        {
+            "id": 17,
+            "name": "DISCOUNT"
+        },
+        {
+            "id": 19,
+            "name": "TOUR/WHSL-FREESL"
+        },
+        {
+            "id": 18,
+            "name": "GROUP/CONVENTION"
+        },
+        {
+            "id": 21,
+            "name": "OTA MERCHANT"
+        },
+        {
+            "id": 20,
+            "name": "TOUR/WHSL-ALLOT"
+        },
+        {
+            "id": 23,
+            "name": "GROUP BLOCK"
+        },
+        {
+            "id": 22,
+            "name": "CHANNEL MANAGEMENT"
+        }
+    ],
+    "ux": {
+        "permissions": [
+            {
+                "permissionName": "system_rateplan",
+                "permissionLevel": 3
+            },
+            {
+                "permissionName": "copy_to_other_properties",
+                "permissionLevel": 1
+            },
+            {
+                "permissionName": "rateplan_delete",
+                "permissionLevel": 3
+            },
+            {
+                "permissionName": "enterprise_rateplan_delete",
+                "permissionLevel": 3
+            },
+            {
+                "permissionName": "rateplan_edit",
+                "permissionLevel": 3
+            },
+            {
+                "permissionName": "utility_management",
+                "permissionLevel": 3
+            },
+            {
+                "permissionName": "property_group_rateplan",
+                "permissionLevel": 3
+            }
+        ],
+        "reservationUri": "https://reservations-t1.travelclick.com/(HOTELCODE)?RateTypeID=(RATEPLANID)",
+        "rateAccessCodeUri": "https://portal-t1.travelclick.com/adminv6/rateChannel.cfm?encryptedRatePlanID=(RATEPLANID)&encryptedCategoryID=(CATEGORYID)&rt=custom&HideSearchPanel=1",
+        "enterpriseCopyToUri": "https://portal-t1.travelclick.com/adminv6/enterprise_management_redirect.cfm?ratePlanId=(RATEPLANID)",
+        "adminEncryptionServiceUri": "https://portal-t1.travelclick.com/components/com/travelclick/ihotelier/shared/encryptionservice.cfm",
+        "familyPricingUri": "https://portal-t1.travelclick.com/adminv6/fp_rule_popup.cfm?RatePlanID=(RATEPLANID)&HideSearchPanel=1",
+        "thirdPartyPortalUri": "https://portal-t1.travelclick.com/adminv6/rateChannelPortal.cfm?RatePlanID=(RATEPLANID)&HideSearchPanel=1",
+        "rateManagementUri": "https://portal-t5.travelclick.com/adminv6/rate.cfm?RatePlanID=(RATEPLANID)&HideSearchPanel=1"
+    },
+    "languages": [
+        {
+            "languageId": 15,
+            "languageCode": "AR_EG",
+            "languageName": "العربيّة",
+            "isDefault": false
+        },
+        {
+            "languageId": 38,
+            "languageCode": "BG_BG",
+            "languageName": "Bulgarian",
+            "isDefault": false
+        },
+        {
+            "languageId": 12,
+            "languageCode": "ZH_TW",
+            "languageName": "繁體中文",
+            "isDefault": false
+        },
+        {
+            "languageId": 18,
+            "languageCode": "CS_CS",
+            "languageName": "Česky",
+            "isDefault": false
+        },
+        {
+            "languageId": 21,
+            "languageCode": "DA_DA",
+            "languageName": "Dansk",
+            "isDefault": false
+        },
+        {
+            "languageId": 10,
+            "languageCode": "NL_NL",
+            "languageName": "Nederlands",
+            "isDefault": false
+        },
+        {
+            "languageId": 11,
+            "languageCode": "EN_UK",
+            "languageName": "English (UK)",
+            "isDefault": false
+        },
+        {
+            "languageId": 1,
+            "languageCode": "EN_US",
+            "languageName": "English (US)",
+            "isDefault": true
+        },
+        {
+            "languageId": 30,
+            "languageCode": "ET_ET",
+            "languageName": "Eesti",
+            "isDefault": false
+        },
+        {
+            "languageId": 3,
+            "languageCode": "FR_FR",
+            "languageName": "Français",
+            "isDefault": false
+        },
+        {
+            "languageId": 8,
+            "languageCode": "IT_IT",
+            "languageName": "Italiano",
+            "isDefault": false
+        },
+        {
+            "languageId": 6,
+            "languageCode": "JA_JP",
+            "languageName": "日本語",
+            "isDefault": false
+        },
+        {
+            "languageId": 4,
+            "languageCode": "PT_PT",
+            "languageName": "Português",
+            "isDefault": false
+        },
+        {
+            "languageId": 9,
+            "languageCode": "RU_RU",
+            "languageName": "Русский",
+            "isDefault": false
+        },
+        {
+            "languageId": 36,
+            "languageCode": "TH_TH",
+            "languageName": "ภาษาไทย",
+            "isDefault": false
+        },
+        {
+            "languageId": 19,
+            "languageCode": "TR_TR",
+            "languageName": "Türkçe",
+            "isDefault": false
+        },
+        {
+            "languageId": 37,
+            "languageCode": "UK_UK",
+            "languageName": "український",
+            "isDefault": false
+        },
+        {
+            "languageId": 22,
+            "languageCode": "VI_VN",
+            "languageName": "Tiếng Việt",
+            "isDefault": false
+        }
+    ]
+}

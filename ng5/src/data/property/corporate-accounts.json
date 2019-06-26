@@ -1,0 +1,112 @@
+[
+  {
+    "profileId": "2746503",
+    "pmsProfileId": "abc",
+    "status": "active",
+    "companyName": "20 TRAVEL",
+    "setupDate": "2018-07-13",
+    "phone": "abc",
+    "email": "testhotels@test.com",
+    "name": "20 TRAVEL"
+  },
+  {
+    "profileId": "2629580",
+    "pmsProfileId": null,
+    "status": "active",
+    "companyName": "20 TRAVEL",
+    "setupDate": "2007-11-21",
+    "phone": "999-999-9999",
+    "email": null,
+    "name": "20 TRAVEL"
+  },
+  {
+    "profileId": "2746504",
+    "pmsProfileId": "abc",
+    "status": "active",
+    "companyName": "20 TRAVEL",
+    "setupDate": "2018-07-13",
+    "phone": "abc",
+    "email": "testhotels@test.com",
+    "name": "20 TRAVEL"
+  },
+  {
+    "profileId": "2629565",
+    "pmsProfileId": "4321",
+    "status": "active",
+    "companyName": "AAABBB",
+    "setupDate": "2006-01-20",
+    "phone": "999-999-9999",
+    "email": null,
+    "name": "AAABBB"
+  },
+  {
+    "profileId": "2629579",
+    "pmsProfileId": "Maria",
+    "status": "active",
+    "companyName": "AT&T",
+    "setupDate": "2003-10-13",
+    "phone": "999-999-9999",
+    "email": null,
+    "name": "AT&T"
+  },
+  {
+    "profileId": "1392871",
+    "pmsProfileId": "1234345345",
+    "status": "active",
+    "companyName": "Cybage",
+    "setupDate": "2015-01-13",
+    "phone": "999-999-9999",
+    "email": null,
+    "name": "Cybage"
+  },
+  {
+    "profileId": "2746108",
+    "pmsProfileId": null,
+    "status": "active",
+    "companyName": "GOT",
+    "setupDate": "2018-05-25",
+    "phone": "5555555555",
+    "email": null,
+    "name": "GOT"
+  },
+  {
+    "profileId": "2629567",
+    "pmsProfileId": null,
+    "status": "active",
+    "companyName": "Justines Flower Making Co.",
+    "setupDate": "2017-10-13",
+    "phone": "999-999-9999",
+    "email": null,
+    "name": "Justines Flower Making Co."
+  },
+  {
+    "profileId": "2629560",
+    "pmsProfileId": null,
+    "status": "active",
+    "companyName": "Mothers Against Drunk Driving",
+    "setupDate": "2010-01-28",
+    "phone": "999-999-9999",
+    "email": null,
+    "name": "Mothers Against Drunk Driving"
+  },
+  {
+    "profileId": "2357850",
+    "pmsProfileId": "12345",
+    "status": "active",
+    "companyName": "mahesh",
+    "setupDate": "2017-06-09",
+    "phone": "999-999-9999",
+    "email": null,
+    "name": "mahesh"
+  },
+  {
+    "profileId": "2629576",
+    "pmsProfileId": null,
+    "status": "active",
+    "companyName": "solari",
+    "setupDate": "2005-12-01",
+    "phone": "999-999-9999",
+    "email": null,
+    "name": "solari"
+  }
+]

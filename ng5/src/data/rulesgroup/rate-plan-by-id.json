@@ -1,0 +1,70 @@
+{
+    "creationBy": "Test User Name",
+    "creationDateTime": "2017-04-12T23:20:50",
+    "distributionOptions": {
+      "isCallCenterEnabled": true,
+      "isDirectConnectEnabled": false,
+      "isGdsEnabled": false,
+      "isMobileEnabled": false,
+      "isOddEnabled": false,
+      "isWebEnabled": true
+    },
+    "gdsRateLoadingInstructions": [
+      {
+        "gdsName": "amadeus",
+        "loadingInstruction": "Some loading instruction",
+        "policy": {
+          "isEnabled": false,
+          "policyEndDate": "2018-05-30",
+          "policyStartDate": "2018-05-30"
+        },
+        "rateAccessCode": "A11"
+      }
+    ],
+    "lastUpdateBy": "Test User Name",
+    "lastUpdateDateTime": "2017-04-12T23:20:50",
+    "lockSettings": [
+      "ALLOW_RATE_OVERRIDE"
+    ],
+    "marketSegmentCode": "Test market segment code",
+    "ownerName": "1010",
+    "ownerType": "System",
+    "parentRateplanId": 332211,
+    "pmsRateCode": "PMSCTEST",
+    "rateCategory": "RACK",
+    "rateCategoryId": 1,
+    "rateCode": "TEST",
+    "rateName": "Test Rateplan Name",
+    "rateplanId": 332211,
+    "rateplanSettings": {
+      "commissionType": "percent",
+      "commissionValue": 10.2,
+      "isAccessCodeRequired": false,
+      "isBreakfastIncluded": false,
+      "isConfidential": true,
+      "isMealplanIncluded": true,
+      "isNegotiated": false,
+      "isRateOverrideAllowed": false,
+      "isSellCodeAllowed": false,
+      "isTaCommissionable": false
+    },
+    "status": "active",
+    "textList": [
+      {
+        "languageTexts": [
+          {
+            "languageId": 1,
+            "languageName": "English",
+            "text": "Test English "
+          }
+        ],
+        "textType": "rateplan_name"
+      }
+    ],
+    "transactionCode": "Test market segment code",
+    "ux": {
+      "lockSettings": [
+        "ALLOW_RATE_OVERRIDE"
+      ]
+    }
+  }

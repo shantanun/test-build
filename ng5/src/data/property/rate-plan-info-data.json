@@ -1,0 +1,92 @@
+{
+  "rateCode": "",
+  "rateCategory": {
+    "id": "",
+    "name": ""
+  },
+  "rateCategoryId": "0",
+  "transactionCode": "",
+  "pmsRateCode": "",
+  "sortOrder": "100",
+  "startDate": null,
+  "endDate": null,
+  "marketSegmentCode": "",
+  "isRmsYieldable": false,
+  "rmsControlledBy": "iHotelier",
+  "roomTypes": [],
+  "isEndDate": true,
+  "ownerName": "",
+  "directUrl": "",
+  "lockSettings": {
+    "commissionableValue": {
+      "key": "COMMISSION",
+      "locked": false,
+      "permission": 0
+    },
+    "isTaCommissionable": {
+      "key": "TA_COMMISSIONABLE",
+      "locked": false,
+      "permission": 0
+    },
+    "isConfidential": {
+      "key": "CONFIDENTIAL",
+      "locked": false,
+      "permission": 0
+    },
+    "isMealplanIncluded": {
+      "key": "MEAL_PLAN_INCLUSIVE",
+      "locked": false,
+      "permission": 0
+    },
+    "isRateOverrideAllowed": {
+      "key": "ALLOW_RATE_OVERRIDE",
+      "locked": false,
+      "permission": 0
+    },
+    "rateplan_name": {
+      "key": "RATE_PLAN_NAME",
+      "locked": false,
+      "permission": 0
+    },
+    "rateCategory": {
+      "key": "RATE_CATEGORY",
+      "locked": false,
+      "permission": 0
+    },
+    "isNegotiated": {
+      "key": "NEGOTIATED_RATE",
+      "locked": false,
+      "permission": 0
+    },
+    "isSellCodeAllowed": {
+      "key": "ASSIGN_SELL_CODES",
+      "locked": false,
+      "permission": 0
+    },
+    "pmsRateCode": {
+      "key": "PMS_RATE_PLAN_CODE",
+      "locked": false,
+      "permission": 0
+    },
+    "gdsRatePlanDescription": {
+      "key": "GDS_DESCRIPTION1",
+      "locked": false,
+      "permission": 0
+    },
+    "channelsEnabled": {
+      "key": "DISTRIBUTION_OPTIONS",
+      "locked": false,
+      "permission": 0
+    },
+    "marketSegmentCode": {
+      "key": "MARKET_SEGMENT",
+      "locked": false,
+      "permission": 0
+    },
+    "webMobileDescription": {
+      "key": "RATE_DESCRIPTION",
+      "locked": false,
+      "permission": 0
+    }
+  }
+}

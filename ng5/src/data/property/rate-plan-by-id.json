@@ -1,0 +1,196 @@
+{
+    "rateplanId": 2636947,
+    "rateCode": "dfgfd",
+    "rateName": "test gds",
+    "rateCategoryId": 1,
+    "rateCategory": "RACK",
+    "status": "active",
+    "pmsRateCode": "fhgf",
+    "ownerType": "property",
+    "ownerName": "1098",
+    "marketSegmentCode": null,
+    "transactionCode": null,
+    "parentRateplanId": null,
+    "distributionOptions": {
+        "isWebEnabled": false,
+        "isOddEnabled": false,
+        "isCallCenterEnabled": false,
+        "isDirectConnectEnabled": false,
+        "isMobileEnabled": false,
+        "isGdsEnabled": true
+    },
+    "gdsRateLoadingInstructions": null,
+    "creationDateTime": "2018-11-14T07:12:47",
+    "creationBy": "ihtejas",
+    "lastUpdateDateTime": "2018-11-14T07:14:54",
+    "lastUpdateBy": "ihanuja",
+    "startDate": "2018-10-14",
+    "endDate": "2020-10-30",
+    "sortOrder": 100,
+    "rateplanSettings": {
+        "isConfidential": false,
+        "isRateOverrideAllowed": false,
+        "isTaCommissionable": false,
+        "isSellCodeAllowed": false,
+        "isAccessCodeRequired": false,
+        "isBreakfastIncluded": false,
+        "isNegotiated": false,
+        "isMealplanIncluded": false,
+        "isRatesDerived": false,
+        "isCalendarLeadRate": false,
+        "isRmsYieldable": true,
+        "rmsControlledBy": "ihotelier",
+        "defaultCorpId": 2629567,
+        "isIdRequired": false,
+        "merchandizedCurrencyId": 4,
+        "isRoomUpgradeable": false
+    },
+    "corporateProfiles": [],
+    "isSellCodeShopCodeAssigned": true,
+    "rateRooms": [
+        {
+            "roomTypeId": 173793,
+            "roomTypeName": "Superior Double Queen"
+        },
+        {
+            "roomTypeId": 175625,
+            "roomTypeName": "Test Room"
+        },
+        {
+            "roomTypeId": 175737,
+            "roomTypeName": "Test Room 2"
+        }
+    ],
+    "ux": {
+        "lockSettings": [
+            "RATE_DESCRIPTION",
+            "ASSIGN_SELL_CODES",
+            "MEAL_PLAN_INCLUSIVE",
+            "RATE_PLAN_NAME",
+            "TRANSACTION_CODE",
+            "MARKET_SEGMENT",
+            "TA_COMMISSIONABLE",
+            "DISTRIBUTION_OPTIONS"
+        ]
+    },
+    "isMultiRate": false,
+    "rateCatalog": {
+        "chainCode": "CYB",
+        "catalogRateplanName": "Ent Lead Rate",
+        "catalogRateplanId": 2781
+    },
+    "textList": [
+        {
+            "textType": "rateplan_gdsline1_desc",
+            "languageTexts": [
+                {
+                    "languageId": 1,
+                    "text": "test desc 655765"
+                }
+            ]
+        },
+        {
+            "textType": "rateplan_web_desc",
+            "languageTexts": [
+                {
+                    "languageId": 1,
+                    "text": "desc eng"
+                },
+                {
+                    "languageId": 3,
+                    "text": "desc french"
+                },
+                {
+                    "languageId": 8,
+                    "text": "desc italian"
+                }
+            ]
+        },
+        {
+            "textType": "rateplan_name",
+            "languageTexts": [
+                {
+                    "languageId": 1,
+                    "text": "test gds"
+                },
+                {
+                    "languageId": 3,
+                    "text": "sdgfdsgf"
+                }
+            ]
+        },
+        {
+            "textType": "rateplan_callcenter_desc",
+            "languageTexts": [
+                {
+                    "languageId": 1,
+                    "text": "desc eng"
+                },
+                {
+                    "languageId": 3,
+                    "text": "desc french"
+                },
+                {
+                    "languageId": 8,
+                    "text": "desc italian"
+                }
+            ]
+        }
+    ],
+    "linkRules": [
+        {
+            "name": "10 % off on BAR",
+            "sourceRateplanId": 70001,
+            "sourceRateplanName": "Best Available Rateplan",
+            "sourceRoomtypeId": 50001,
+            "sourceRoomtypeName": "Deluxe",
+            "applyFlatFirst": true,
+            "startDate": "2019-04-12",
+            "endDate": "2019-09-12",
+            "floorRate": 12.3,
+            "ceilingRate": 12.3,
+            "extra": {
+                "flatValue": 5,
+                "percentageValue": 10
+            },
+            "child": {
+                "flatValue": 5,
+                "percentageValue": 10
+            },
+            "adults": [
+                {
+                    "flatValue": 5,
+                    "percentageValue": 10,
+                    "occupancy": 1
+                }
+            ]
+        },
+        {
+            "name": "Free SPA",
+            "sourceRateplanId": 7000,
+            "sourceRateplanName": "Best Available Rateplan",
+            "sourceRoomtypeId": 50001,
+            "sourceRoomtypeName": "Deluxe",
+            "applyFlatFirst": true,
+            "startDate": "2019-04-12",
+            "endDate": "2019-09-12",
+            "floorRate": 12.3,
+            "ceilingRate": 12.3,
+            "extra": {
+                "flatValue": 5,
+                "percentageValue": 10
+            },
+            "child": {
+                "flatValue": 5,
+                "percentageValue": 10
+            },
+            "adults": [
+                {
+                    "flatValue": 5,
+                    "percentageValue": 10,
+                    "occupancy": 1
+                }
+            ]
+        }
+    ]
+}

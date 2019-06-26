@@ -1,0 +1,31 @@
+{
+  "hotelID": 6938,
+  "hotelName": "Test Mock Hotel Name",
+  "isGdsEnabled": true,
+  "languages": [
+    {
+      "languageID": 1,
+      "languageName": "English (US)"
+    },
+    {
+      "languageID": 11,
+      "languageName": "English (UK)"
+    },
+    {
+      "languageID": 3,
+      "languageName": "French"
+    },
+    {
+      "languageID": 7,
+      "languageName": "Deutsche"
+    },
+    {
+      "languageID": 2,
+      "languageName": "Spanish"
+    },
+    {
+      "languageID": 4,
+      "languageName": "Portuguese"
+    }
+  ]
+}

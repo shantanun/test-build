@@ -1,0 +1,266 @@
+{
+	"hotelCode": 1098,
+	"hotelName": "Teka Towers",
+	"chainCode": "AAM",
+	"bid": 767666,
+	"timezone": "Pacific/Auckland",
+	"gmtOffset": 12.0,
+	"unitOfMeasurement": "Imperial",
+	"latitude": "",
+	"longitude": "",
+	"languages": [
+		{
+			"languageId": 15,
+			"languageCode": "AR_EG",
+			"languageName": "العربيّة",
+			"isDefault": false
+		},
+		{
+			"languageId": 38,
+			"languageCode": "BG_BG",
+			"languageName": "Bulgarian",
+			"isDefault": false
+		},
+		{
+			"languageId": 12,
+			"languageCode": "ZH_TW",
+			"languageName": "繁體中文",
+			"isDefault": false
+		},
+		{
+			"languageId": 18,
+			"languageCode": "CS_CS",
+			"languageName": "Česky",
+			"isDefault": false
+		},
+		{
+			"languageId": 21,
+			"languageCode": "DA_DA",
+			"languageName": "Dansk",
+			"isDefault": false
+		},
+		{
+			"languageId": 10,
+			"languageCode": "NL_NL",
+			"languageName": "Nederlands",
+			"isDefault": false
+		},
+		{
+			"languageId": 11,
+			"languageCode": "EN_UK",
+			"languageName": "English (UK)",
+			"isDefault": false
+		},
+		{
+			"languageId": 1,
+			"languageCode": "EN_US",
+			"languageName": "English (US)",
+			"isDefault": true
+		},
+		{
+			"languageId": 30,
+			"languageCode": "ET_ET",
+			"languageName": "Eesti",
+			"isDefault": false
+		},
+		{
+			"languageId": 3,
+			"languageCode": "FR_FR",
+			"languageName": "Français",
+			"isDefault": false
+		},
+		{
+			"languageId": 8,
+			"languageCode": "IT_IT",
+			"languageName": "Italiano",
+			"isDefault": false
+		},
+		{
+			"languageId": 6,
+			"languageCode": "JA_JP",
+			"languageName": "日本語",
+			"isDefault": false
+		},
+		{
+			"languageId": 4,
+			"languageCode": "PT_PT",
+			"languageName": "Português",
+			"isDefault": false
+		},
+		{
+			"languageId": 9,
+			"languageCode": "RU_RU",
+			"languageName": "Русский",
+			"isDefault": false
+		},
+		{
+			"languageId": 36,
+			"languageCode": "TH_TH",
+			"languageName": "ภาษาไทย",
+			"isDefault": false
+		},
+		{
+			"languageId": 19,
+			"languageCode": "TR_TR",
+			"languageName": "Türkçe",
+			"isDefault": false
+		},
+		{
+			"languageId": 37,
+			"languageCode": "UK_UK",
+			"languageName": "український",
+			"isDefault": false
+		},
+		{
+			"languageId": 22,
+			"languageCode": "VI_VN",
+			"languageName": "Tiếng Việt",
+			"isDefault": false
+		}
+	],
+	"currencies": [
+		{
+			"currencyId": 4,
+			"currencyCode": "EUR",
+			"isDefault": true
+		},
+		{
+			"currencyId": 16,
+			"currencyCode": "NZD",
+			"isDefault": false
+		},
+		{
+			"currencyId": 1,
+			"currencyCode": "USD",
+			"isDefault": false
+		},
+		{
+			"currencyId": 19,
+			"currencyCode": "AED",
+			"isDefault": false
+		},
+		{
+			"currencyId": 25,
+			"currencyCode": "ARS",
+			"isDefault": false
+		},
+		{
+			"currencyId": 8,
+			"currencyCode": "AUD",
+			"isDefault": false
+		}
+	],
+	"hotelSettings": {
+		"rateplanSettings": {
+			"isRateOverrideAllowed": false,
+			"isRmsEnabled": true,
+			"isSubRateplanEnabled": true,
+			"isMarketSegmentEnabled": true
+		},
+		"occupancySettings": {
+			"familyPricingEnabled": true,
+			"allowChildren": true,
+			"allowInfants": true,
+			"maxAdultPricingCount": 8,
+			"minChildAge": 0,
+			"maxChildAge": 18,
+			"childAgeBuckets": [
+				{
+					"bucketName": "0 to 6",
+					"childAgeFrom": 0,
+					"childAgeTo": 6
+				},
+				{
+					"bucketName": "7 to 11",
+					"childAgeFrom": 7,
+					"childAgeTo": 11
+				},
+				{
+					"bucketName": "12 to 18",
+					"childAgeFrom": 12,
+					"childAgeTo": 18
+				}
+			]
+		},
+		"isStopSellEnabled": false,
+		"isPmsEnabled": true,
+		"isWebEnabled": true,
+		"isGdsEnabled": true,
+		"gdsChainCode": "WV",
+		"isPromotionEnabled": true,
+		"isRulesGroupProperty": true,
+		"propertyGroupCode": "LILY",
+		"isHoldRoomsEnabled": true,
+		"isRoomCategoriesEnabled": true,
+		"defaultCorporateId": 2629579
+	},
+	"roomtypes": [
+		{
+			"roomTypeId": 428399,
+			"roomTypeCode": "12354",
+			"roomTypeName": "AUTOROOM1",
+			"status": "active",
+			"roomCategory": "Test",
+			"sortorder": 98
+		},
+		{
+			"roomTypeId": 437594,
+			"roomTypeCode": "kingroom1",
+			"roomTypeName": "King Room",
+			"status": "active",
+			"sortorder": 99
+		},
+		{
+			"roomTypeId": 175625,
+			"roomTypeCode": "tst",
+			"roomTypeName": "Test Room",
+			"status": "active",
+			"sortorder": 99
+		},
+		{
+			"roomTypeId": 175737,
+			"roomTypeName": "Test Room 2",
+			"status": "active",
+			"sortorder": 99
+		},
+		{
+			"roomTypeId": 175736,
+			"roomTypeCode": "TST",
+			"roomTypeName": "Test Room",
+			"status": "active",
+			"sortorder": 99
+		},
+		{
+			"roomTypeId": 173793,
+			"roomTypeCode": "A1Q",
+			"roomTypeName": "Superior Double Queen",
+			"status": "inactive",
+			"roomCategory": "Category 3",
+			"sortorder": 1
+		}
+	],
+	"categories": {
+		"roomCategories": [
+			{
+				"categoryId": 7321,
+				"categoryName": "Category 2",
+				"sortorder": 5
+			},
+			{
+				"categoryId": 7322,
+				"categoryName": "Category 3",
+				"sortorder": 2
+			},
+			{
+				"categoryId": 8495,
+				"categoryName": "Test",
+				"sortorder": 99
+			},
+			{
+				"categoryId": 8496,
+				"categoryName": "Test category",
+				"sortorder": 4
+			}
+		]
+	}
+}

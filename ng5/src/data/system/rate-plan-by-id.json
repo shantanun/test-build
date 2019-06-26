@@ -1,0 +1,87 @@
+{
+    "rateCode": "DEMO1",
+    "rateName": "demo locked rate",
+    "rateCategoryId": 1,
+    "rateCategory": "RACK",
+    "status": "active",
+    "pmsRateCode": null,
+    "ownerType": "system",
+    "ownerName": "SYSTEM",
+    "marketSegmentCode": null,
+    "transactionCode": null,
+    "parentRateplanId": null,
+    "distributionOptions": {
+      "isWebEnabled": true,
+      "isOddEnabled": false,
+      "isCallCenterEnabled": true,
+      "isDirectConnectEnabled": false,
+      "isMobileEnabled": false,
+      "isGdsEnabled": true
+    },
+    "gdsRateLoadingInstructions": null,
+    "rateplanSettings": {
+      "isConfidential": true,
+      "isRateOverrideAllowed": false,
+      "isTaCommissionable": true,
+      "isSellCodeAllowed": false,
+      "commissionValue": 8,
+      "isAccessCodeRequired": false,
+      "isBreakfastIncluded": false,
+      "isNegotiated": false,
+      "isMealplanIncluded": true,
+      "commissionType": "flat"
+    },
+    "lockSettings": [
+      "COMMISSION",
+      "CONFIDENTIAL",
+      "DISTRIBUTION_OPTIONS",
+      "GDS_DESCRIPTION1",
+      "MEAL_PLAN_INCLUSIVE",
+      "RATE_DESCRIPTION",
+      "RATE_PLAN_NAME",
+      "TA_COMMISSIONABLE"
+    ],
+    "rateplanId": 2858695,
+    "textList": [
+      {
+        "textType": "rateplan_name",
+        "languageTexts": [
+          {
+            "languageId": 1,
+            "text": "demo locked rate"
+          }
+        ]
+      },
+      {
+        "textType": "rateplan_web_desc",
+        "languageTexts": [
+          {
+            "languageId": 1,
+            "text": "test desc"
+          }
+        ]
+      },
+      {
+        "textType": "rateplan_gdsline1_desc",
+        "languageTexts": [
+          {
+            "languageId": 1,
+            "text": "test desc"
+          }
+        ]
+      },
+      {
+        "textType": "rateplan_callcenter_desc",
+        "languageTexts": [
+          {
+            "languageId": 1,
+            "text": "test desc"
+          }
+        ]
+      }
+    ],
+    "creationDateTime": "2018-11-28T00:00:00",
+    "creationBy": "ihtejas",
+    "lastUpdateDateTime": "2018-12-04T00:00:00",
+    "lastUpdateBy": "ihtejas"
+  }

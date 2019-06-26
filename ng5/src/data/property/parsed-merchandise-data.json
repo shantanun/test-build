@@ -1,0 +1,287 @@
+{
+  "isConfidential": {
+    "isChecked": true
+  },
+  "isIdRequired": {
+    "isChecked": true
+  },
+  "isRateOverrideAllowed": {
+    "isChecked": true
+  },
+  "isRoomUpgradeable": {
+    "isChecked": true
+  },
+  "isSellCodeAllowed": {
+    "isChecked": false
+  },
+  "isNegotiated": {
+    "isChecked": true
+  },
+  "isCalendarLeadRate": {
+    "isChecked": true
+  },
+  "mealplanId": 104660,
+  "defaultCorpId": 0,
+  "catalogRateplanId": 492,
+  "catalogRateplanName": "catalogName",
+  "isTaCommissionable": {
+    "isChecked": true,
+    "commissionValue": 11,
+    "errorMessage": {
+      "show": false,
+      "message": ""
+    },
+    "commissionType": "percent",
+    "radioSelection": "percent"
+  },
+  "isAccessCodeRequired": {
+    "isChecked": true,
+    "codes": [
+      {
+        "rateAccessCodeId": 232409,
+        "rateAccessCode": "RTC",
+        "isHideEnhancement": false
+      },
+      {
+        "rateAccessCodeId": 299222,
+        "rateAccessCode": "TEst",
+        "isHideEnhancement": false
+      },
+      {
+        "rateAccessCodeId": 299223,
+        "rateAccessCode": "AccessCode",
+        "isHideEnhancement": false
+      }
+    ]
+  },
+  "isMealplanIncluded": {
+    "isChecked": true,
+    "mealPlanChecked": true,
+    "breakfastChecked": false,
+    "dropdownSelection": -1,
+    "value": "",
+    "errorMessage": {
+      "show": false,
+      "message": ""
+    }
+  },
+  "corporateAccount": [
+    {
+      "profileId": "2746503",
+      "pmsProfileId": "abc",
+      "status": "active",
+      "companyName": "20 TRAVEL",
+      "setupDate": "2018-07-13",
+      "phone": "abc",
+      "email": "testhotels@test.com",
+      "name": "20 TRAVEL"
+    },
+    {
+      "profileId": "2629580",
+      "pmsProfileId": null,
+      "status": "active",
+      "companyName": "20 TRAVEL",
+      "setupDate": "2007-11-21",
+      "phone": "999-999-9999",
+      "email": null,
+      "name": "20 TRAVEL"
+    },
+    {
+      "profileId": "2746504",
+      "pmsProfileId": "abc",
+      "status": "active",
+      "companyName": "20 TRAVEL",
+      "setupDate": "2018-07-13",
+      "phone": "abc",
+      "email": "testhotels@test.com",
+      "name": "20 TRAVEL"
+    },
+    {
+      "profileId": "2629565",
+      "pmsProfileId": "4321",
+      "status": "active",
+      "companyName": "AAABBB",
+      "setupDate": "2006-01-20",
+      "phone": "999-999-9999",
+      "email": null,
+      "name": "AAABBB"
+    },
+    {
+      "profileId": "2629579",
+      "pmsProfileId": "Maria",
+      "status": "active",
+      "companyName": "AT&T",
+      "setupDate": "2003-10-13",
+      "phone": "999-999-9999",
+      "email": null,
+      "name": "AT&T"
+    },
+    {
+      "profileId": "1392871",
+      "pmsProfileId": "1234345345",
+      "status": "active",
+      "companyName": "Cybage",
+      "setupDate": "2015-01-13",
+      "phone": "999-999-9999",
+      "email": null,
+      "name": "Cybage"
+    },
+    {
+      "profileId": "2746108",
+      "pmsProfileId": null,
+      "status": "active",
+      "companyName": "GOT",
+      "setupDate": "2018-05-25",
+      "phone": "5555555555",
+      "email": null,
+      "name": "GOT"
+    },
+    {
+      "profileId": "2629567",
+      "pmsProfileId": null,
+      "status": "active",
+      "companyName": "Justines Flower Making Co.",
+      "setupDate": "2017-10-13",
+      "phone": "999-999-9999",
+      "email": null,
+      "name": "Justines Flower Making Co."
+    },
+    {
+      "profileId": "2629560",
+      "pmsProfileId": null,
+      "status": "active",
+      "companyName": "Mothers Against Drunk Driving",
+      "setupDate": "2010-01-28",
+      "phone": "999-999-9999",
+      "email": null,
+      "name": "Mothers Against Drunk Driving"
+    },
+    {
+      "profileId": "2357850",
+      "pmsProfileId": "12345",
+      "status": "active",
+      "companyName": "mahesh",
+      "setupDate": "2017-06-09",
+      "phone": "999-999-9999",
+      "email": null,
+      "name": "mahesh"
+    },
+    {
+      "profileId": "2629576",
+      "pmsProfileId": null,
+      "status": "active",
+      "companyName": "solari",
+      "setupDate": "2005-12-01",
+      "phone": "999-999-9999",
+      "email": null,
+      "name": "solari"
+    }
+  ],
+  "distributionOptions": {
+    "isWebEnabled": true,
+    "isOddEnabled": true,
+    "isCallCenterEnabled": true,
+    "isDirectConnectEnabled": false,
+    "isMobileEnabled": false,
+    "isGdsEnabled": true
+  },
+  "gdsRateLoadingInstructions": {
+    "isChecked": true,
+    "gdsRates": [
+      {
+        "GDS": "worldspan",
+        "GDSRateAccessCode": "MOCK Data Testing",
+        "RateLoadingInstruction": "MOCK Data Testing"
+      },
+      {
+        "GDS": "odd",
+        "GDSRateAccessCode": "MOCK Data Testing",
+        "RateLoadingInstruction": "MOCK Data Testing"
+      }
+    ]
+  },
+  "textList": {
+    "id_1": {
+      "rateplan_gdsline2_desc": "Test 123123",
+      "rateplan_name": "MOCKTT",
+      "rateplan_gdsline1_desc": "Testing 123",
+      "rateplan_web_desc": "MOCK Data Testing",
+      "rateplan_callcenter_desc": "MOCK Data Testing"
+    }
+  },
+  "isRatesDerived": {
+    "isChecked": false
+  },
+  "lockSettings": {
+    "commissionableValue": {
+      "key": "COMMISSION",
+      "locked": false,
+      "permission": 0
+    },
+    "isTaCommissionable": {
+      "key": "TA_COMMISSIONABLE",
+      "locked": false,
+      "permission": 0
+    },
+    "isConfidential": {
+      "key": "CONFIDENTIAL",
+      "locked": false,
+      "permission": 0
+    },
+    "isMealplanIncluded": {
+      "key": "MEAL_PLAN_INCLUSIVE",
+      "locked": false,
+      "permission": 0
+    },
+    "isRateOverrideAllowed": {
+      "key": "ALLOW_RATE_OVERRIDE",
+      "locked": false,
+      "permission": 0
+    },
+    "rateplan_name": {
+      "key": "RATE_PLAN_NAME",
+      "locked": false,
+      "permission": 0
+    },
+    "rateCategory": {
+      "key": "RATE_CATEGORY",
+      "locked": false,
+      "permission": 0
+    },
+    "isNegotiated": {
+      "key": "NEGOTIATED_RATE",
+      "locked": false,
+      "permission": 0
+    },
+    "isSellCodeAllowed": {
+      "key": "ASSIGN_SELL_CODES",
+      "locked": false,
+      "permission": 0
+    },
+    "pmsRateCode": {
+      "key": "PMS_RATE_PLAN_CODE",
+      "locked": false,
+      "permission": 0
+    },
+    "gdsRatePlanDescription": {
+      "key": "GDS_DESCRIPTION1",
+      "locked": false,
+      "permission": 0
+    },
+    "channelsEnabled": {
+      "key": "DISTRIBUTION_OPTIONS",
+      "locked": false,
+      "permission": 0
+    },
+    "marketSegmentCode": {
+      "key": "MARKET_SEGMENT",
+      "locked": false,
+      "permission": 0
+    },
+    "webMobileDescription": {
+      "key": "RATE_DESCRIPTION",
+      "locked": false,
+      "permission": 0
+    }
+  }
+}

@@ -1,0 +1,1964 @@
+{
+  "ratePlanID": "2047735",
+  "rateplanId": "2047735",
+  "ratePlanHistory": [
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "587749",
+        "modifiedByUsername": "ihmarisolg",
+        "ratePlanHistoryId": "4779254",
+        "versionDate": "2018-02-08",
+        "version": 37
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "status",
+            "operation": "update",
+            "oldValue": "2",
+            "newValue": "1"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "426001",
+        "modifiedByUsername": "ihtvieira",
+        "ratePlanHistoryId": "4606519",
+        "versionDate": "2017-11-22",
+        "version": 36
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "status",
+            "operation": "update",
+            "oldValue": "1",
+            "newValue": "2"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "426001",
+        "modifiedByUsername": "ihtvieira",
+        "ratePlanHistoryId": "4606515",
+        "versionDate": "2017-11-22",
+        "version": 35
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "ratePlanName",
+            "operation": "update",
+            "oldValue": "Best Available Rate",
+            "newValue": "Best Available RateHT"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "25857",
+        "modifiedByUsername": "ihvhtoledo",
+        "ratePlanHistoryId": "4540245",
+        "versionDate": "2017-10-12",
+        "version": 34
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          },
+          {
+            "field": "pmsRatePlanCode",
+            "operation": "update",
+            "oldValue": "123",
+            "newValue": "EQW"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "487627",
+        "modifiedByUsername": "clondon",
+        "ratePlanHistoryId": "4444497",
+        "versionDate": "2017-08-04",
+        "version": 33
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "pmsRatePlanCode",
+            "operation": "update",
+            "oldValue": "1BAR",
+            "newValue": "123"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "497343",
+        "modifiedByUsername": "ihmmichael",
+        "ratePlanHistoryId": "4398326",
+        "versionDate": "2017-06-30",
+        "version": 32
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": "",
+            "newValue": "NET"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "57656",
+        "modifiedByUsername": "ihmarco",
+        "ratePlanHistoryId": "4396034",
+        "versionDate": "2017-06-29",
+        "version": 31
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "callCenterDescription",
+            "operation": "update",
+            "oldValue": "If you can afford it, you can get it.",
+            "newValue": "If you can afford it, you can get it.-test1-test"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "578246",
+        "modifiedByUsername": "ihviviana",
+        "ratePlanHistoryId": "4357360",
+        "versionDate": "2017-06-07",
+        "version": 30
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "webDescription",
+            "operation": "update",
+            "oldValue": "If you can afford it, you can get it.",
+            "newValue": "From Feb 07th to Dec 21st 2017 and Jan 05th to Dec 22nd 2018.  In addition to our All-Inclusive plan, this experience includes: •City tour •Cultural tour •Basic Wi-Fi •$30usd Spa credit per adult per night.  RESTRICTIONS: Applies in a 50 minutes massage with value of $95usd or more, credit is non-transferable, non-cumulative, non-refundable, not valid for groups, do not apply towards spa boutique or beauty salon.  Credit is not combinable with any other spa promotions.  Rates subject to changes without notice. FROM Dec 22nd 2017 to Jan 04th 2018 and Dec 23rd 2018 to Jan 04th 2019.  In addition to our All-Inclusive plan, this experience includes: •City tour •Cultural tour •Basic Wi-Fi.   New Year's Eve Dinner surcharge applies. Surcharge is non-mandatory, and it is payable locally. All-inclusive dinner for guests not buying the optional New Year's Dinner surcharge will be served as usual."
+          },
+          {
+            "field": "mobileDescription",
+            "operation": "update",
+            "oldValue": "If you can afford it, you can get it.",
+            "newValue": "If you can afford it, you can get it.- test1- test2- test3"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "578246",
+        "modifiedByUsername": "ihviviana",
+        "ratePlanHistoryId": "4357335",
+        "versionDate": "2017-06-07",
+        "version": 29
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "mobileEnabled",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "573223",
+        "modifiedByUsername": "ihRadhika",
+        "ratePlanHistoryId": "4311498",
+        "versionDate": "2017-05-11",
+        "version": 28
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "publishToGds",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "496083",
+        "modifiedByUsername": "ihandreaf",
+        "ratePlanHistoryId": "4107070",
+        "versionDate": "2017-03-29",
+        "version": 27
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "publishToGds",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "496083",
+        "modifiedByUsername": "ihandreaf",
+        "ratePlanHistoryId": "4107068",
+        "versionDate": "2017-03-29",
+        "version": 26
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "confidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "amenity",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "Amenity::[ amenityId:=104660 amenityTypeId:=19 description:=All Inclusive]"
+          },
+          {
+            "field": "mobileEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "gdsDescription1",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": ""
+          },
+          {
+            "field": "gdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "mealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "ratePlanNameLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "distributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": ""
+          },
+          {
+            "field": "expediaStatus",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "commissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "taCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "breakfastIncluded",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          },
+          {
+            "field": "expediaEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "rateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "526307",
+        "modifiedByUsername": "ihjwest",
+        "ratePlanHistoryId": "4073292",
+        "versionDate": "2017-03-09",
+        "version": 25
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": "% off on Res Amount",
+            "newValue": "% off on Additional Nights"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": "286-Get 20% OFF",
+            "newValue": "272-20% off BAR"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "577227",
+        "modifiedByUsername": "ihgzafiris",
+        "ratePlanHistoryId": "4059069",
+        "versionDate": "2017-03-01",
+        "version": 24
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "DistributionOptionLockDisabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountRank",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "1"
+          },
+          {
+            "field": "AllowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "CommissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "GdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "% off on Res Amount"
+          },
+          {
+            "field": "SellCodeLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "falseexpediaEnabled"
+          },
+          {
+            "field": "MealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "ConfidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "286-Get 20% OFF"
+          },
+          {
+            "field": "AllNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "DistributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "RateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "TaCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "577227",
+        "modifiedByUsername": "ihgzafiris",
+        "ratePlanHistoryId": "4059068",
+        "versionDate": "2017-03-01",
+        "version": 23
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "gdsDescription1",
+            "operation": "update",
+            "oldValue": "BEST AVAILABLE RATE",
+            "newValue": ""
+          },
+          {
+            "field": "taCommissionable",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          },
+          {
+            "field": "commissionAmount",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "10.0"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "578522",
+        "modifiedByUsername": "ihmessier",
+        "ratePlanHistoryId": "4054415",
+        "versionDate": "2017-02-27",
+        "version": 22
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": "blank",
+            "newValue": ""
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "4168",
+        "modifiedByUsername": "ihneil",
+        "ratePlanHistoryId": "4049536",
+        "versionDate": "2017-02-23",
+        "version": 21
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": "",
+            "newValue": "blank"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "4168",
+        "modifiedByUsername": "ihneil",
+        "ratePlanHistoryId": "4049533",
+        "versionDate": "2017-02-23",
+        "version": 20
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "taCommissionable",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "4168",
+        "modifiedByUsername": "ihneil",
+        "ratePlanHistoryId": "4049526",
+        "versionDate": "2017-02-23",
+        "version": 19
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "confidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "amenity",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "Amenity::[ amenityId:=104660 amenityTypeId:=19 description:=All Inclusive]"
+          },
+          {
+            "field": "mobileEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "gdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "mealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "ratePlanNameLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "distributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": ""
+          },
+          {
+            "field": "taCommissionable",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          },
+          {
+            "field": "expediaStatus",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "commissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "taCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "breakfastIncluded",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "expediaEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "rateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "4168",
+        "modifiedByUsername": "ihneil",
+        "ratePlanHistoryId": "4049511",
+        "versionDate": "2017-02-23",
+        "version": 18
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "DistributionOptionLockDisabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "AllowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "CommissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "GdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "SellCodeLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "falseexpediaEnabled"
+          },
+          {
+            "field": "MealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "ConfidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "AllNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "DistributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "RateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "TaCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "548825",
+        "modifiedByUsername": "ihwilsonl",
+        "ratePlanHistoryId": "4047723",
+        "versionDate": "2017-02-22",
+        "version": 17
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "576778",
+        "modifiedByUsername": "ihsimons",
+        "ratePlanHistoryId": "4046823",
+        "versionDate": "2017-02-22",
+        "version": 16
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "576778",
+        "modifiedByUsername": "ihsimons",
+        "ratePlanHistoryId": "4046822",
+        "versionDate": "2017-02-22",
+        "version": 15
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "allowRateOverride",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          },
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "532106",
+        "modifiedByUsername": "ihtheresa",
+        "ratePlanHistoryId": "4035739",
+        "versionDate": "2017-02-16",
+        "version": 14
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "confidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountRank",
+            "operation": "update",
+            "oldValue": "1[*]2[*]3[*]4[*]5[*]6[*]7[*]8[*]9",
+            "newValue": "1"
+          },
+          {
+            "field": "amenity",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "Amenity::[ amenityId:=104660 amenityTypeId:=19 description:=All Inclusive]"
+          },
+          {
+            "field": "mobileEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "gdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "mealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": "% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount",
+            "newValue": "% off on Res Amount"
+          },
+          {
+            "field": "ratePlanNameLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "distributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": ""
+          },
+          {
+            "field": "expediaStatus",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "commissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "taCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": "294-Testing - comp voucher[*]273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount[*]288-ABC[*]292-29% discount[*]293-29% discount[*]295-15% discount[*]296-30% discount",
+            "newValue": "294-Testing - comp voucher"
+          },
+          {
+            "field": "associatedRoomDetails",
+            "operation": "update",
+            "oldValue": "1LV[*]One Love[#]3BPR[*]3 Bedroom Presidential[#]FAM4[*]FAMILY ROOM 4[#]",
+            "newValue": "1LV[*]One Love[#]2BRV[*]2 Bedroom Villa[#]3BPR[*]3 Bedroom Presidential[#]FAM4[*]FAMILY ROOM[#]"
+          },
+          {
+            "field": "allowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "breakfastIncluded",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "expediaEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "rateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "421584",
+        "modifiedByUsername": "ihmcaraballo",
+        "ratePlanHistoryId": "3964589",
+        "versionDate": "2017-01-13",
+        "version": 13
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "primaryDiscountRank",
+            "operation": "update",
+            "oldValue": "1[*]2[*]3[*]4[*]5[*]6[*]7",
+            "newValue": "1[*]2[*]3[*]4[*]5[*]6[*]7[*]8[*]9"
+          },
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": "% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount",
+            "newValue": "% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": "294-Testing - comp voucher[*]273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount[*]288-ABC[*]292-29% discount[*]293-29% discount",
+            "newValue": "294-Testing - comp voucher[*]273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount[*]288-ABC[*]292-29% discount[*]293-29% discount[*]295-15% discount[*]296-30% discount"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "578246",
+        "modifiedByUsername": "ihviviana",
+        "ratePlanHistoryId": "3840426",
+        "versionDate": "2016-11-22",
+        "version": 12
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": "273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount[*]288-ABC[*]292-29% discount[*]293-29% discount[*]294-Testing - comp voucher",
+            "newValue": "294-Testing - comp voucher[*]273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount[*]288-ABC[*]292-29% discount[*]293-29% discount"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "553064",
+        "modifiedByUsername": "ihmimia",
+        "ratePlanHistoryId": "3840001",
+        "versionDate": "2016-11-22",
+        "version": 11
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "DistributionOptionLockDisabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountRank",
+            "operation": "update",
+            "oldValue": "1",
+            "newValue": "1[*]2[*]3[*]4[*]5[*]6[*]7"
+          },
+          {
+            "field": "AllowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "CommissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "GdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": "% off on Res Amount",
+            "newValue": "% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount"
+          },
+          {
+            "field": "SellCodeLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "falseexpediaEnabled"
+          },
+          {
+            "field": "MealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "ConfidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": "273-30% off for 5 nights",
+            "newValue": "273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount[*]288-ABC[*]292-29% discount[*]293-29% discount[*]294-Testing - comp voucher"
+          },
+          {
+            "field": "AllNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "DistributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "RateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "TaCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "553064",
+        "modifiedByUsername": "ihmimia",
+        "ratePlanHistoryId": "3839746",
+        "versionDate": "2016-11-21",
+        "version": 10
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "taCommissionable",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "578522",
+        "modifiedByUsername": "ihmessier",
+        "ratePlanHistoryId": "3838807",
+        "versionDate": "2016-11-21",
+        "version": 9
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "iStay3LeadRate",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "336647",
+        "modifiedByUsername": "ihjoer",
+        "ratePlanHistoryId": "3785640",
+        "versionDate": "2016-10-17",
+        "version": 8
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "confidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountRank",
+            "operation": "update",
+            "oldValue": "1[*]2[*]3[*]4",
+            "newValue": "1"
+          },
+          {
+            "field": "amenity",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "Amenity::[ amenityId:=104660 amenityTypeId:=19 description:=All Inclusive]"
+          },
+          {
+            "field": "mobileEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "gdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "mealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": "% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount",
+            "newValue": "% off on Res Amount"
+          },
+          {
+            "field": "ratePlanNameLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "distributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": ""
+          },
+          {
+            "field": "expediaStatus",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "commissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "taCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": "273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount[*]288-ABC",
+            "newValue": "273-30% off for 5 nights"
+          },
+          {
+            "field": "allowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "breakfastIncluded",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          },
+          {
+            "field": "expediaEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "rateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "577227",
+        "modifiedByUsername": "ihgzafiris",
+        "ratePlanHistoryId": "3768865",
+        "versionDate": "2016-10-05",
+        "version": 7
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "DistributionOptionLockDisabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountRank",
+            "operation": "update",
+            "oldValue": "1",
+            "newValue": "1[*]2[*]3[*]4"
+          },
+          {
+            "field": "AllowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "CommissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "GdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": "% off on Res Amount",
+            "newValue": "% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount"
+          },
+          {
+            "field": "SellCodeLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "falseexpediaEnabled"
+          },
+          {
+            "field": "MealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "ConfidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": "273-30% off for 5 nights",
+            "newValue": "273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount[*]288-ABC"
+          },
+          {
+            "field": "AllNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "DistributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "RateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "TaCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "576831",
+        "modifiedByUsername": "ihjuliana",
+        "ratePlanHistoryId": "3756646",
+        "versionDate": "2016-09-27",
+        "version": 6
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "true",
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "410011",
+        "modifiedByUsername": "ihmorvan",
+        "ratePlanHistoryId": "3746777",
+        "versionDate": "2016-09-22",
+        "version": 5
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "confidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountRank",
+            "operation": "update",
+            "oldValue": "1[*]2[*]3",
+            "newValue": "1"
+          },
+          {
+            "field": "amenity",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "Amenity::[ amenityId:=104660 amenityTypeId:=19 description:=All Inclusive]"
+          },
+          {
+            "field": "mobileEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "gdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "mealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": "% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount",
+            "newValue": "% off on Res Amount"
+          },
+          {
+            "field": "ratePlanNameLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "distributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": ""
+          },
+          {
+            "field": "expediaStatus",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "commissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "taCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": "273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount",
+            "newValue": "273-30% off for 5 nights"
+          },
+          {
+            "field": "allowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "breakfastIncluded",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": "false",
+            "newValue": "true"
+          },
+          {
+            "field": "expediaEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "rateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "410011",
+        "modifiedByUsername": "ihmorvan",
+        "ratePlanHistoryId": "3746776",
+        "versionDate": "2016-09-22",
+        "version": 4
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "DistributionOptionLockDisabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountRank",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "1[*]2[*]3"
+          },
+          {
+            "field": "AllowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "CommissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "GdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountType",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "% off on Res Amount[*]% off on Res Amount[*]% off on Res Amount"
+          },
+          {
+            "field": "SellCodeLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "falseexpediaEnabled"
+          },
+          {
+            "field": "MealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "ConfidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "primaryDiscountName",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "273-30% off for 5 nights[*]272-20% off BAR[*]270-Trial Discount"
+          },
+          {
+            "field": "AllNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "DistributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "RateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "TaCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "497343",
+        "modifiedByUsername": "ihmmichael",
+        "ratePlanHistoryId": "3648723",
+        "versionDate": "2016-07-19",
+        "version": 3
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "selectedCategoryName",
+            "operation": "update",
+            "oldValue": "DISCOUNT",
+            "newValue": "RACK"
+          },
+          {
+            "field": "expediaEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "575353",
+        "modifiedByUsername": "ihnhanley",
+        "ratePlanHistoryId": "3631025",
+        "versionDate": "2016-07-06",
+        "version": 2
+      }
+    },
+    {
+      "ratePlan": {
+        "operation": "update",
+        "revisions": [
+          {
+            "field": "gdsDescription2",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "FULL BOARD"
+          },
+          {
+            "field": "confidentialLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "oddEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "iStay3LeadRate",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "negotiatedRate",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "amenity",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "Amenity::[ amenityId:=104660 amenityTypeId:=19 description:=All Inclusive]"
+          },
+          {
+            "field": "mobileEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "gdsDescription1",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "BEST AVAILABLE RATE"
+          },
+          {
+            "field": "pending",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "EDIT_LEVEL",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "PROPERTY"
+          },
+          {
+            "field": "rateQualified",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "gdsDescription1Locked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "selectedCategoryName",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "DISCOUNT"
+          },
+          {
+            "field": "ownerName",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "1001"
+          },
+          {
+            "field": "ratePlanName",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "Best Available Rate"
+          },
+          {
+            "field": "mealPlanInclusionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "ratePlanNameLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allNegotiatedRatesLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "mealPlanIncluded",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "distributionOptionsLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "marketSegment",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": ""
+          },
+          {
+            "field": "confidential",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "directConnectEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "taCommissionable",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "publishToGds",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "webDescription",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "If you can afford it, you can get it."
+          },
+          {
+            "field": "expediaStatus",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "commissionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "assignSellCodes",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "taCommissionableLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allowRateOverride",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "associatedRoomDetails",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "1LV[*]One Love[#]3BPR[*]3 Bedroom Presidential[#]FAM4[*]FAMILY ROOM 4[#]"
+          },
+          {
+            "field": "allowRateOverrideLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "breakfastIncluded",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "callCenterDescription",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "If you can afford it, you can get it."
+          },
+          {
+            "field": "rateAccessCodeRequired",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "allowiStay3RoomUpgrade",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "bookingEngineEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "callCenterEnabled",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "true"
+          },
+          {
+            "field": "rateDescriptionLocked",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "false"
+          },
+          {
+            "field": "pmsRatePlanCode",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "1BAR"
+          },
+          {
+            "field": "status",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "1"
+          },
+          {
+            "field": "mobileDescription",
+            "operation": "update",
+            "oldValue": null,
+            "newValue": "If you can afford it, you can get it."
+          }
+        ]
+      },
+      "metadata": {
+        "modifiedByUserId": "575353",
+        "modifiedByUsername": "ihnhanley",
+        "ratePlanHistoryId": "3631020",
+        "versionDate": "2016-07-06",
+        "version": 1
+      }
+    }
+  ]
+}
